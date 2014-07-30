@@ -36,16 +36,16 @@ static_knockout:
   1:
     0:
       arena: main
-      start_time: 2014-07-30 20:19:00 +1
+      start_time: 2014-07-30 22:50:00 +1
       teams: [S2, '000', '002', '011']
     1:
       arena: main
-      start_time: 2014-07-30 20:26:00 +1
+      start_time: 2014-07-30 22:55:00 +1
       teams: [S1, '001', '010', '012']
   2:
     0:
       arena: main
-      start_time: 2014-07-30 20:42:00 +1
+      start_time: 2014-07-30 23:00:00 +1
       teams: ['100', '101', '110', '111']
 
 matches:
